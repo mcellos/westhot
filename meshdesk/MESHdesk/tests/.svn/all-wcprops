@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/radiusdesk/code/!svn/ver/995/trunk/meshdesk/MESHdesk/tests
+END
+test_actions.lua
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/radiusdesk/code/!svn/ver/995/trunk/meshdesk/MESHdesk/tests/test_actions.lua
+END
+test_firmware_config.lua
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/radiusdesk/code/!svn/ver/995/trunk/meshdesk/MESHdesk/tests/test_firmware_config.lua
+END
+test_vis.lua
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/radiusdesk/code/!svn/ver/995/trunk/meshdesk/MESHdesk/tests/test_vis.lua
+END
+test_wifi_config.lua
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/radiusdesk/code/!svn/ver/883/trunk/meshdesk/MESHdesk/tests/test_wifi_config.lua
+END
+test_batman_config.lua
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/radiusdesk/code/!svn/ver/992/trunk/meshdesk/MESHdesk/tests/test_batman_config.lua
+END
+test_system_config.lua
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/radiusdesk/code/!svn/ver/930/trunk/meshdesk/MESHdesk/tests/test_system_config.lua
+END
+sample_config_batman_adv.json
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/radiusdesk/code/!svn/ver/992/trunk/meshdesk/MESHdesk/tests/sample_config_batman_adv.json
+END
+sample_config.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/radiusdesk/code/!svn/ver/930/trunk/meshdesk/MESHdesk/tests/sample_config.json
+END

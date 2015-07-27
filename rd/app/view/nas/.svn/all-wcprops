@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/radiusdesk/code/!svn/ver/717/trunk/rd/app/view/nas
+END
+pnlNasPhoto.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/pnlNasPhoto.js
+END
+winNasActionAdd.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/winNasActionAdd.js
+END
+winMapNasAdd.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/winMapNasAdd.js
+END
+gridNasActions.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/radiusdesk/code/!svn/ver/717/trunk/rd/app/view/nas/gridNasActions.js
+END
+winMapPreferences.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/winMapPreferences.js
+END
+gridRealmsForNasOwner.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/gridRealmsForNasOwner.js
+END
+pnlRealmsForNasOwner.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/pnlRealmsForNasOwner.js
+END
+gridNasAvailability.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/gridNasAvailability.js
+END
+gridNas.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/gridNas.js
+END
+frmNasBasic.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/frmNasBasic.js
+END
+cmbNasTypes.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/cmbNasTypes.js
+END
+winNasAddWizard.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/winNasAddWizard.js
+END
+pnlNas.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/pnlNas.js
+END
+pnlNasNas.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/pnlNasNas.js
+END
+pnlNasPptp.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/pnlNasPptp.js
+END
+pnlNasDynamic.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/pnlNasDynamic.js
+END
+pnlNasOpenVpn.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/pnlNasOpenVpn.js
+END
+winTagManage.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/nas/winTagManage.js
+END

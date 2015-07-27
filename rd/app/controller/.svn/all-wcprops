@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/radiusdesk/code/!svn/ver/1483/trunk/rd/app/controller
+END
+cPassword.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cPassword.js
+END
+cProfileComponents.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cProfileComponents.js
+END
+cLogin.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cLogin.js
+END
+cMeshViews.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/1028/trunk/rd/app/controller/cMeshViews.js
+END
+cAutoSetups.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/779/trunk/rd/app/controller/cAutoSetups.js
+END
+cFinMyGateTransactions.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/radiusdesk/code/!svn/ver/1304/trunk/rd/app/controller/cFinMyGateTransactions.js
+END
+cMyGateTransactions.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/radiusdesk/code/!svn/ver/1280/trunk/rd/app/controller/cMyGateTransactions.js
+END
+cI18n.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cI18n.js
+END
+cMeshEdits.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/1476/trunk/rd/app/controller/cMeshEdits.js
+END
+cIpPools.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/radiusdesk/code/!svn/ver/1383/trunk/rd/app/controller/cIpPools.js
+END
+cAcos.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cAcos.js
+END
+cSsids.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/radiusdesk/code/!svn/ver/1394/trunk/rd/app/controller/cSsids.js
+END
+cRadiusClient.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cRadiusClient.js
+END
+cDesktopOrig.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cDesktopOrig.js
+END
+cTopUps.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/radiusdesk/code/!svn/ver/813/trunk/rd/app/controller/cTopUps.js
+END
+cTags.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cTags.js
+END
+cVouchers.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/radiusdesk/code/!svn/ver/1401/trunk/rd/app/controller/cVouchers.js
+END
+cAccessProviders.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/radiusdesk/code/!svn/ver/1480/trunk/rd/app/controller/cAccessProviders.js
+END
+cStartup.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cStartup.js
+END
+cLogViewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/radiusdesk/code/!svn/ver/788/trunk/rd/app/controller/cLogViewer.js
+END
+cActivityMonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/radiusdesk/code/!svn/ver/1476/trunk/rd/app/controller/cActivityMonitor.js
+END
+cFinPayUTransactions.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/radiusdesk/code/!svn/ver/792/trunk/rd/app/controller/cFinPayUTransactions.js
+END
+cFinAuthorizeNetTransactions.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/radiusdesk/code/!svn/ver/1468/trunk/rd/app/controller/cFinAuthorizeNetTransactions.js
+END
+cFinPaymentPlans.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/radiusdesk/code/!svn/ver/1383/trunk/rd/app/controller/cFinPaymentPlans.js
+END
+cDesktop.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/radiusdesk/code/!svn/ver/862/trunk/rd/app/controller/cDesktop.js
+END
+cPermanentUsers.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/radiusdesk/code/!svn/ver/1399/trunk/rd/app/controller/cPermanentUsers.js
+END
+cFinPaypalTransactions.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/radiusdesk/code/!svn/ver/779/trunk/rd/app/controller/cFinPaypalTransactions.js
+END
+Readme.md
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/Readme.md
+END
+cNas.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/radiusdesk/code/!svn/ver/951/trunk/rd/app/controller/cNas.js
+END
+Main.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/Main.js
+END
+cDevices.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/radiusdesk/code/!svn/ver/1206/trunk/rd/app/controller/cDevices.js
+END
+cRealms.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cRealms.js
+END
+cProfiles.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cProfiles.js
+END
+cMeshes.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/radiusdesk/code/!svn/ver/1483/trunk/rd/app/controller/cMeshes.js
+END
+cDebug.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/controller/cDebug.js
+END
+cFinPremiumSmsTransactions.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/radiusdesk/code/!svn/ver/1068/trunk/rd/app/controller/cFinPremiumSmsTransactions.js
+END
+cDynamicDetails.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/radiusdesk/code/!svn/ver/1332/trunk/rd/app/controller/cDynamicDetails.js
+END

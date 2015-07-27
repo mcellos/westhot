@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/radiusdesk/code/!svn/ver/1464/trunk/meshdesk/MESHdesk/libs
+END
+rdLogger.lua
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/radiusdesk/code/!svn/ver/722/trunk/meshdesk/MESHdesk/libs/rdLogger.lua
+END
+class.lua
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/679/trunk/meshdesk/MESHdesk/libs/class.lua
+END
+rdGateway_back.lua
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/radiusdesk/code/!svn/ver/679/trunk/meshdesk/MESHdesk/libs/rdGateway_back.lua
+END
+rdExternal.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/radiusdesk/code/!svn/ver/885/trunk/meshdesk/MESHdesk/libs/rdExternal.lua
+END
+json.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/radiusdesk/code/!svn/ver/679/trunk/meshdesk/MESHdesk/libs/json.lua
+END
+rdSystem.lua
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/radiusdesk/code/!svn/ver/1464/trunk/meshdesk/MESHdesk/libs/rdSystem.lua
+END
+rdMorse.lua
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/radiusdesk/code/!svn/ver/917/trunk/meshdesk/MESHdesk/libs/rdMorse.lua
+END
+rdLeds.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/radiusdesk/code/!svn/ver/718/trunk/meshdesk/MESHdesk/libs/rdLeds.lua
+END
+rdNetwork.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/radiusdesk/code/!svn/ver/1448/trunk/meshdesk/MESHdesk/libs/rdNetwork.lua
+END
+rdCoovaChilli.lua
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/radiusdesk/code/!svn/ver/1452/trunk/meshdesk/MESHdesk/libs/rdCoovaChilli.lua
+END
+rdAlfred.lua
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/radiusdesk/code/!svn/ver/986/trunk/meshdesk/MESHdesk/libs/rdAlfred.lua
+END
+rdWireless.lua
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/radiusdesk/code/!svn/ver/1144/trunk/meshdesk/MESHdesk/libs/rdWireless.lua
+END
+rdActions.lua
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/radiusdesk/code/!svn/ver/980/trunk/meshdesk/MESHdesk/libs/rdActions.lua
+END
+rdGateway.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/radiusdesk/code/!svn/ver/1447/trunk/meshdesk/MESHdesk/libs/rdGateway.lua
+END
+rdVis.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/radiusdesk/code/!svn/ver/1138/trunk/meshdesk/MESHdesk/libs/rdVis.lua
+END
+rdFirmwareConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/radiusdesk/code/!svn/ver/1155/trunk/meshdesk/MESHdesk/libs/rdFirmwareConfig.lua
+END
+rdBatman.lua
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/radiusdesk/code/!svn/ver/992/trunk/meshdesk/MESHdesk/libs/rdBatman.lua
+END
+rdSystemstats.lua
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/radiusdesk/code/!svn/ver/979/trunk/meshdesk/MESHdesk/libs/rdSystemstats.lua
+END
+rdNetstats.lua
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/radiusdesk/code/!svn/ver/1138/trunk/meshdesk/MESHdesk/libs/rdNetstats.lua
+END
+rdConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/radiusdesk/code/!svn/ver/817/trunk/meshdesk/MESHdesk/libs/rdConfig.lua
+END

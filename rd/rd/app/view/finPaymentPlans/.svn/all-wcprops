@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/radiusdesk/code/!svn/ver/1286/trunk/rd/app/view/finPaymentPlans
+END
+winFinPaymentPlanEdit.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/radiusdesk/code/!svn/ver/1286/trunk/rd/app/view/finPaymentPlans/winFinPaymentPlanEdit.js
+END
+cmbCurrency.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/radiusdesk/code/!svn/ver/1265/trunk/rd/app/view/finPaymentPlans/cmbCurrency.js
+END
+cmbPaymentPlanType.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/radiusdesk/code/!svn/ver/1265/trunk/rd/app/view/finPaymentPlans/cmbPaymentPlanType.js
+END
+winFinPaymentPlanAdd.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/radiusdesk/code/!svn/ver/1257/trunk/rd/app/view/finPaymentPlans/winFinPaymentPlanAdd.js
+END
+winFinPaymentPlanAddWizard.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/radiusdesk/code/!svn/ver/1269/trunk/rd/app/view/finPaymentPlans/winFinPaymentPlanAddWizard.js
+END
+gridFinPaymentPlans.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/radiusdesk/code/!svn/ver/1265/trunk/rd/app/view/finPaymentPlans/gridFinPaymentPlans.js
+END

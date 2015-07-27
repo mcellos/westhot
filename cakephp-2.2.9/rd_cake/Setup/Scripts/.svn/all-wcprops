@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/radiusdesk/code/!svn/ver/1209/trunk/rd_cake/Setup/Scripts
+END
+permanent_users_patch.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/radiusdesk/code/!svn/ver/1080/trunk/rd_cake/Setup/Scripts/permanent_users_patch.php
+END
+vouchers_patch.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/radiusdesk/code/!svn/ver/840/trunk/rd_cake/Setup/Scripts/vouchers_patch.php
+END
+radmin_wrapper.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/radiusdesk/code/!svn/ver/289/trunk/rd_cake/Setup/Scripts/radmin_wrapper.pl
+END
+radscenario.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/radiusdesk/code/!svn/ver/1011/trunk/rd_cake/Setup/Scripts/radscenario.pl
+END
+mac_lookup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/radiusdesk/code/!svn/ver/512/trunk/rd_cake/Setup/Scripts/mac_lookup.txt
+END
+migrate_permanent_users_to_new_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/radiusdesk/code/!svn/ver/1209/trunk/rd_cake/Setup/Scripts/migrate_permanent_users_to_new_table.php
+END

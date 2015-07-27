@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/radiusdesk/code/!svn/ver/1465/trunk/meshdesk/MESHdesk/alfred_scripts
+END
+alfred_check_for_actions.lua
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/radiusdesk/code/!svn/ver/995/trunk/meshdesk/MESHdesk/alfred_scripts/alfred_check_for_actions.lua
+END
+alfred_meshdesk_scripts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/radiusdesk/code/!svn/ver/995/trunk/meshdesk/MESHdesk/alfred_scripts/alfred_meshdesk_scripts.sh
+END
+alfred_report_to_server.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/radiusdesk/code/!svn/ver/995/trunk/meshdesk/MESHdesk/alfred_scripts/alfred_report_to_server.lua
+END
+alfred_dynamic_gateway.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/radiusdesk/code/!svn/ver/1465/trunk/meshdesk/MESHdesk/alfred_scripts/alfred_dynamic_gateway.lua
+END
+alfred_check_for_internet.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/radiusdesk/code/!svn/ver/995/trunk/meshdesk/MESHdesk/alfred_scripts/alfred_check_for_internet.lua
+END
+alfred_update_stats.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/radiusdesk/code/!svn/ver/995/trunk/meshdesk/MESHdesk/alfred_scripts/alfred_update_stats.lua
+END

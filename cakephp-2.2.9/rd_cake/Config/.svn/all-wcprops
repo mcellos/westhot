@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/radiusdesk/code/!svn/ver/1479/trunk/rd_cake/Config
+END
+Vouchers.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/radiusdesk/code/!svn/ver/1370/trunk/rd_cake/Config/Vouchers.php
+END
+RadiusDesk.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/radiusdesk/code/!svn/ver/1479/trunk/rd_cake/Config/RadiusDesk.php
+END
+acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/Config/acl.php
+END
+MESHdesk.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/radiusdesk/code/!svn/ver/1462/trunk/rd_cake/Config/MESHdesk.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/radiusdesk/code/!svn/ver/8/trunk/rd_cake/Config/database.php
+END
+RegisterUsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/radiusdesk/code/!svn/ver/1214/trunk/rd_cake/Config/RegisterUsers.php
+END
+email.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/Config/email.php.default
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/radiusdesk/code/!svn/ver/1344/trunk/rd_cake/Config/bootstrap.php
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/Config/acl.ini.php
+END
+DynamicLogin.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/1230/trunk/rd_cake/Config/DynamicLogin.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/radiusdesk/code/!svn/ver/1342/trunk/rd_cake/Config/routes.php
+END
+MyGate.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/radiusdesk/code/!svn/ver/1293/trunk/rd_cake/Config/MyGate.php
+END
+email.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/radiusdesk/code/!svn/ver/768/trunk/rd_cake/Config/email.php
+END
+database.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/Config/database.php.default
+END
+AuthorizeDotNet.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/radiusdesk/code/!svn/ver/1098/trunk/rd_cake/Config/AuthorizeDotNet.php
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/radiusdesk/code/!svn/ver/897/trunk/rd_cake/Config/core.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/radiusdesk/code/!svn/ver/1318/trunk/rd_cake/webroot
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/webroot/test.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/webroot/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/webroot/index.php
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/webroot/favicon.ico
+END

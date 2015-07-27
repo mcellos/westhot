@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/radiusdesk/code/!svn/ver/401/trunk/rd_clients/coova_ap
+END
+heartbeat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/radiusdesk/code/!svn/ver/401/trunk/rd_clients/coova_ap/heartbeat
+END
+functions
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/radiusdesk/code/!svn/ver/401/trunk/rd_clients/coova_ap/functions
+END
+heartbeat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/401/trunk/rd_clients/coova_ap/heartbeat.sh
+END
+util_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/radiusdesk/code/!svn/ver/401/trunk/rd_clients/coova_ap/util_functions.sh
+END

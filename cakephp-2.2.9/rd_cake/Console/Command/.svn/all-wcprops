@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/radiusdesk/code/!svn/ver/1237/trunk/rd_cake/Console/Command
+END
+AutoAddDevicesShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/radiusdesk/code/!svn/ver/1237/trunk/rd_cake/Console/Command/AutoAddDevicesShell.php
+END
+RdShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/radiusdesk/code/!svn/ver/371/trunk/rd_cake/Console/Command/RdShell.php
+END
+BulkPermanentUserShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/radiusdesk/code/!svn/ver/787/trunk/rd_cake/Console/Command/BulkPermanentUserShell.php
+END
+FreeradiusShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/radiusdesk/code/!svn/ver/787/trunk/rd_cake/Console/Command/FreeradiusShell.php
+END
+AccountingShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/radiusdesk/code/!svn/ver/1202/trunk/rd_cake/Console/Command/AccountingShell.php
+END
+RemoveduplicatesShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/radiusdesk/code/!svn/ver/787/trunk/rd_cake/Console/Command/RemoveduplicatesShell.php
+END
+VoucherShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/radiusdesk/code/!svn/ver/1130/trunk/rd_cake/Console/Command/VoucherShell.php
+END
+TranslationShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/radiusdesk/code/!svn/ver/787/trunk/rd_cake/Console/Command/TranslationShell.php
+END
+AutoCleanMESHdeskShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/radiusdesk/code/!svn/ver/1000/trunk/rd_cake/Console/Command/AutoCleanMESHdeskShell.php
+END
+AppShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/Console/Command/AppShell.php
+END

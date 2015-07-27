@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/radiusdesk/code/!svn/ver/1187/trunk/rd_cake/Console/Command/Task
+END
+DebugTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/radiusdesk/code/!svn/ver/371/trunk/rd_cake/Console/Command/Task/DebugTask.php
+END
+MonitorTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/radiusdesk/code/!svn/ver/342/trunk/rd_cake/Console/Command/Task/MonitorTask.php
+END
+AutocloseTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/radiusdesk/code/!svn/ver/491/trunk/rd_cake/Console/Command/Task/AutocloseTask.php
+END
+FindMacTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/radiusdesk/code/!svn/ver/514/trunk/rd_cake/Console/Command/Task/FindMacTask.php
+END
+CountersTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/radiusdesk/code/!svn/ver/1034/trunk/rd_cake/Console/Command/Task/CountersTask.php
+END
+UsageTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/radiusdesk/code/!svn/ver/1187/trunk/rd_cake/Console/Command/Task/UsageTask.php
+END
+empty
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/Console/Command/Task/empty
+END

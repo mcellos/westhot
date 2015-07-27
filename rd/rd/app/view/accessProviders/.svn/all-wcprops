@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/accessProviders
+END
+gridAccessProviders.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/accessProviders/gridAccessProviders.js
+END
+pnlAccessProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/accessProviders/pnlAccessProvider.js
+END
+winApAddWizard.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/accessProviders/winApAddWizard.js
+END
+gridRealms.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/accessProviders/gridRealms.js
+END
+pnlAccessProviderDetail.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/accessProviders/pnlAccessProviderDetail.js
+END
+treeAccessProviders.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/accessProviders/treeAccessProviders.js
+END
+treeApUserRights.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/accessProviders/treeApUserRights.js
+END
+winDetail.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/accessProviders/winDetail.js
+END

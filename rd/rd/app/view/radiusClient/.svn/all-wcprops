@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/radiusClient
+END
+frmRadiusRequest.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/radiusClient/frmRadiusRequest.js
+END
+pnlRadiusRequest.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/radiusClient/pnlRadiusRequest.js
+END
+cmbRequestType.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/radiusClient/cmbRequestType.js
+END
+pnlRadiusReply.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/radiusClient/pnlRadiusReply.js
+END
+cmbUserType.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/radiusClient/cmbUserType.js
+END

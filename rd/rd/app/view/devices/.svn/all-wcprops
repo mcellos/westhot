@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/radiusdesk/code/!svn/ver/1285/trunk/rd/app/view/devices
+END
+gridDeviceRadpostauths.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/devices/gridDeviceRadpostauths.js
+END
+winDeviceAddWizard.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/radiusdesk/code/!svn/ver/1285/trunk/rd/app/view/devices/winDeviceAddWizard.js
+END
+gridDevices.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/devices/gridDevices.js
+END
+pnlDevice.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/radiusdesk/code/!svn/ver/1206/trunk/rd/app/view/devices/pnlDevice.js
+END
+gridDeviceRadaccts.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/radiusdesk/code/!svn/ver/862/trunk/rd/app/view/devices/gridDeviceRadaccts.js
+END
+gridDevicePrivate.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/devices/gridDevicePrivate.js
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/radiusdesk/code/!svn/ver/1401/trunk/rd/app/view/permanentUsers
+END
+gridUserRadpostauths.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/permanentUsers/gridUserRadpostauths.js
+END
+gridUserDevices.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/radiusdesk/code/!svn/ver/1201/trunk/rd/app/view/permanentUsers/gridUserDevices.js
+END
+gridUserRadaccts.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/radiusdesk/code/!svn/ver/862/trunk/rd/app/view/permanentUsers/gridUserRadaccts.js
+END
+winPermanentUserPassword.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/permanentUsers/winPermanentUserPassword.js
+END
+gridUserPrivate.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/radiusdesk/code/!svn/ver/710/trunk/rd/app/view/permanentUsers/gridUserPrivate.js
+END
+winPermanentUserAddWizard.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/radiusdesk/code/!svn/ver/1399/trunk/rd/app/view/permanentUsers/winPermanentUserAddWizard.js
+END
+gridPermanentUsers.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/radiusdesk/code/!svn/ver/1201/trunk/rd/app/view/permanentUsers/gridPermanentUsers.js
+END
+pnlPermanentUser.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/radiusdesk/code/!svn/ver/1401/trunk/rd/app/view/permanentUsers/pnlPermanentUser.js
+END

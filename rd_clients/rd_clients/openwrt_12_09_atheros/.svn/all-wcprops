@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/402/trunk/rd_clients/openwrt_12_09_atheros
+END
+heartbeat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/radiusdesk/code/!svn/ver/402/trunk/rd_clients/openwrt_12_09_atheros/heartbeat
+END
+heartbeat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/radiusdesk/code/!svn/ver/402/trunk/rd_clients/openwrt_12_09_atheros/heartbeat.sh
+END
+util_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/radiusdesk/code/!svn/ver/402/trunk/rd_clients/openwrt_12_09_atheros/util_functions.sh
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/radiusdesk/code/!svn/ver/1217/trunk/rd_clients/mikrotik
+END
+status.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/1044/trunk/rd_clients/mikrotik/status.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/radiusdesk/code/!svn/ver/1217/trunk/rd_clients/mikrotik/login.html
+END
+alogin.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/radiusdesk/code/!svn/ver/592/trunk/rd_clients/mikrotik/alogin.html
+END
+fstatus.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/radiusdesk/code/!svn/ver/592/trunk/rd_clients/mikrotik/fstatus.html
+END
+logout.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/radiusdesk/code/!svn/ver/592/trunk/rd_clients/mikrotik/logout.html
+END

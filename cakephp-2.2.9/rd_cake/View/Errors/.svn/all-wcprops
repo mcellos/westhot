@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/View/Errors
+END
+error400.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/View/Errors/error400.ctp
+END
+error500.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/radiusdesk/code/!svn/ver/4/trunk/rd_cake/View/Errors/error500.ctp
+END

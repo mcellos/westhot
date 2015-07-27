@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/radiusdesk/code/!svn/ver/1404/trunk/rd/app/view/iPPools
+END
+winIpPoolEdit.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/radiusdesk/code/!svn/ver/1385/trunk/rd/app/view/iPPools/winIpPoolEdit.js
+END
+cmbPool.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/radiusdesk/code/!svn/ver/1383/trunk/rd/app/view/iPPools/cmbPool.js
+END
+gridIpPools.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/radiusdesk/code/!svn/ver/1404/trunk/rd/app/view/iPPools/gridIpPools.js
+END
+winIpPoolsAddWizard.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/radiusdesk/code/!svn/ver/1383/trunk/rd/app/view/iPPools/winIpPoolsAddWizard.js
+END

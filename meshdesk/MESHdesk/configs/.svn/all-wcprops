@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/radiusdesk/code/!svn/ver/1144/trunk/meshdesk/MESHdesk/configs
+END
+frmwr_network_two_eth
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/radiusdesk/code/!svn/ver/1099/trunk/meshdesk/MESHdesk/configs/frmwr_network_two_eth
+END
+dhcp_network_two_eth
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/radiusdesk/code/!svn/ver/1144/trunk/meshdesk/MESHdesk/configs/dhcp_network_two_eth
+END
+frmwr_network_one_eth
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/radiusdesk/code/!svn/ver/1099/trunk/meshdesk/MESHdesk/configs/frmwr_network_one_eth
+END
+dhcp_network_one_eth
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/radiusdesk/code/!svn/ver/1144/trunk/meshdesk/MESHdesk/configs/dhcp_network_one_eth
+END

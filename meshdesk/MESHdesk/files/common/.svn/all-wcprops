@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/radiusdesk/code/!svn/ver/1235/trunk/meshdesk/MESHdesk/files/common
+END
+passwd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/radiusdesk/code/!svn/ver/917/trunk/meshdesk/MESHdesk/files/common/passwd
+END
+radiusdesk.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/radiusdesk/code/!svn/ver/1235/trunk/meshdesk/MESHdesk/files/common/radiusdesk.html
+END
+shadow
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/radiusdesk/code/!svn/ver/917/trunk/meshdesk/MESHdesk/files/common/shadow
+END
+70-meshdesk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/radiusdesk/code/!svn/ver/917/trunk/meshdesk/MESHdesk/files/common/70-meshdesk
+END
+dropbear_rsa_host_key
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/radiusdesk/code/!svn/ver/917/trunk/meshdesk/MESHdesk/files/common/dropbear_rsa_host_key
+END
+rd.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/radiusdesk/code/!svn/ver/1235/trunk/meshdesk/MESHdesk/files/common/rd.png
+END
+dropbear_dss_host_key
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/radiusdesk/code/!svn/ver/917/trunk/meshdesk/MESHdesk/files/common/dropbear_dss_host_key
+END
+alfred
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/radiusdesk/code/!svn/ver/1104/trunk/meshdesk/MESHdesk/files/common/alfred
+END

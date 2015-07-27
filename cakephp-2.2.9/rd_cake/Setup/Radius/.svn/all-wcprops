@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/radiusdesk/code/!svn/ver/1467/trunk/rd_cake/Setup/Radius
+END
+rlm_raw_patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/radiusdesk/code/!svn/ver/328/trunk/rd_cake/Setup/Radius/rlm_raw_patch
+END
+policy.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/radiusdesk/code/!svn/ver/1400/trunk/rd_cake/Setup/Radius/policy.conf
+END
+checkrad
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/radiusdesk/code/!svn/ver/593/trunk/rd_cake/Setup/Radius/checkrad
+END
+raddb_rd.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/radiusdesk/code/!svn/ver/1467/trunk/rd_cake/Setup/Radius/raddb_rd.tar.gz
+END
+rlm_raw_patch_pre_2.2.0.gz
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/radiusdesk/code/!svn/ver/328/trunk/rd_cake/Setup/Radius/rlm_raw_patch_pre_2.2.0.gz
+END
